@@ -13,7 +13,7 @@ Bot for buying keys of the Steam marketplace.
 
 
 ### System dependencies
-* Python 3.X (from version 3.8
+* Python 3.X (from version 3.8)
 
 ### Modules
 * Aiogram
